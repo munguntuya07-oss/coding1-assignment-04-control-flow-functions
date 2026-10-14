@@ -9,9 +9,8 @@ for number in [1, 2, 3]:
 # decide which numbers are passed to add_one.
 # Your answer:
 # output will be 3, then 4
-# the loop goes through numbers 
 # 1,2,3 if condition checks whether each number is greater than 1
-# 1 is not greater than 1, so it will be skipper and 2 and 3 will be passed
+# 1 is not bigger than 1, so it will be skipped and 2 and 3 will be passed
 # by add_one which adds 1 to 2,3 print displays the 3,4
 
 
